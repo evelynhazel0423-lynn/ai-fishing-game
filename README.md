@@ -203,4 +203,4 @@ python build_blind.py     # 从 engine.py 重新生成 fishing.py
 
 ## License
 
-MIT，详见 `LICENSE`。随便用、随便改、随便接到你和你 AI 的小日子里。🎣
+本项目采用 [PolyForm Noncommercial License 1.0.0](LICENSE)。允许非商业使用、修改和分发；商业使用须另行取得授权。
